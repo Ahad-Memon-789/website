@@ -1,0 +1,26 @@
+.pages{
+  margin: 10 auto !important;
+}
+.main{
+  height: 70vh !important   ;
+}
+.main-head-1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important ;
+  color: antiquewhite !important;
+
+}
+.products-underline{
+  background-color: red;
+  height: 2px;
+  margin: 10px auto !important;
+}
+.products-head{
+font-size: 25px !important;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hr{
+  height: 3px;
+  width: 100px;
+  background-color: red;
+}
